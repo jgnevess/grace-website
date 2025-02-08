@@ -1194,6 +1194,11 @@ blockquote {
   }
 }
 
+.grace-card-img {
+  width: auto;
+  height: 300px;
+}
+
 
 .text-pink {
   color: var(--pink-collor);
